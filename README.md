@@ -3,6 +3,6 @@
 
 - 📚 I am working on Rock Paper Scissors SHOOT at the moment: https://github.com/DaBlueJai/Rock-Paper-Scissors-SHOOT
 
-- 💻 I am learning **Python and JavaScript** at the moment
+- 💻 I am learning **Python** and **JavaScript** at the moment
 
 - 👀 I am looking forward to working to the Game off 2022! 
