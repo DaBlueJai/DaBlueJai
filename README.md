@@ -5,4 +5,4 @@
 
 - 💻 I am learning **Python** and **JavaScript** at the moment
 
-- 👀 I am looking forward to working to the Game off 2022! 
+- 👀 I am looking forward to creating websites using JavaScript soon 
